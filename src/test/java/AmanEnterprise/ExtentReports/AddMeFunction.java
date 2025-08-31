@@ -12,4 +12,12 @@ public class AddMeFunction {
     public static Integer addMethod(int x, int y){
         return (x+y);
     }
+
+    public static Integer SubtractMethod(int x, int y){
+        return (x-y);
+    }
+
+    public static Integer multiplyMethod(int x, int y){
+        return (x*y);
+    }
 }
