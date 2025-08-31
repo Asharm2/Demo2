@@ -20,4 +20,8 @@ public class AddMeFunction {
     public static Integer multiplyMethod(int x, int y){
         return (x*y);
     }
+    public static Integer remMethod(int x, int y){
+        return (x/y);
+    }
+
 }
